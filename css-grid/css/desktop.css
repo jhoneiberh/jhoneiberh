@@ -1,0 +1,72 @@
+/* Section Icons */
+.icons-social-network .icons
+{
+    padding-right: 50px;
+}
+
+/* Section Presentation Image */
+.presentation-image
+{
+    padding: 20px 0 30px 30px ;
+    margin: 0;
+}
+
+.presentation-image img
+{
+    width: 350px;
+    height: 250px;
+    border-radius: 30px;
+}
+
+
+/* Section Presentation Text */
+
+.presentation-text
+{
+    display: grid;
+    align-self: center;
+    padding: 20px 20px 20px 0;
+}
+
+.presentation-text h1
+{
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.presentation-text p
+{
+    font-size: 16px;
+    line-height: 25px;
+}
+
+
+
+/* Section Projects */
+
+.projects-container 
+{   
+    padding: 0 50px 50px;
+}
+
+.projects
+{
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+.projects-container h2
+{
+    font-size: 24px;
+}
+
+.projects-container article h3
+{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.projects-container article p
+{
+    font-size: 16px;
+}

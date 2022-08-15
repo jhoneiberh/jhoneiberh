@@ -1,0 +1,43 @@
+/* Section Header */
+
+header
+{
+    height: 70px;
+}
+
+
+/* Section Logo */
+
+.logo-web .logo
+{
+    height: 60px;
+}
+
+/* Icons */
+
+.icons-social-network .icons
+{
+    align-self: center;
+    height: 60px;
+}
+
+/* Section Presentation */
+
+.background-presentation
+{
+    grid-template-columns: repeat(2, 1fr);
+    padding: 30px;
+}
+
+.presentation-image
+{
+    padding: 0;
+}
+
+
+/* Section Projects */
+.projects
+{
+    grid-template-columns: repeat(2, 1fr);
+}
+
