@@ -18,7 +18,7 @@ html
 header
 {  
     width: 100%;
-    min-width: 320px;
+    /* min-width: 320px; */ /* Genera un scroll horizontal en la página */
     height: 80px;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
